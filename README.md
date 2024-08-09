@@ -6,6 +6,7 @@ Highly skilled Blockchain engineer bringing enormous talents of development of D
 - Keeping good communication and work on the client's timezone.
 - Ability for working with any team and prefer to share much knowledge with many developers.
 - Looking for an opportunity to build a long-term relationship with great clients all over the world.
+
 Experienced Full-Stack developer adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set.<br>
 
 # 🚀 SKILLS
