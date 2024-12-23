@@ -1,6 +1,6 @@
 # 💫 About Me
 Senior Blockchain and Full-Stack engineer with 5+ years of experience.<br>
-Highly skilled Blockchain engineer bringing enormous talents of development of DEX, DeFi, Stacking, Farming and NFT marketplace. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.<br>
+Highly skilled Blockchain engineer bringing enormous talents of development of DEX, DeFi, Staking, Farming and NFT marketplace. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.<br>
 - Like to make a development document with developing content to use that in the future.
 - Delivering perfect results by deadline.
 - Keeping good communication and work on the client's timezone.
